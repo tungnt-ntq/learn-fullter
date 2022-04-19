@@ -1,0 +1,65 @@
+{
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "fe2d3368efcdfaa68483c02ccc6bfb5488a783a885d8b0b3beb2e9f90bde3f49"
+    }
+  ],
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator14.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/admin/Documents/Flutter/my_app/ios/build/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/admin/Documents/Flutter/my_app/ios/build/Build/Products",
+      "derivedDataPath" : "/Users/admin/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/admin/Library/Developer/Xcode/DerivedData/Runner-attcklasojbuaxfchzposcyxbxyo/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/admin/Library/Developer/Xcode/DerivedData/Runner-attcklasojbuaxfchzposcyxbxyo/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/admin/Documents/Flutter/my_app/ios/build/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "BUILD_DIR" : "/Users/admin/Documents/Flutter/my_app/build/ios",
+          "COMPILER_INDEX_STORE_ENABLE" : "NO",
+          "FLUTTER_SUPPRESS_ANALYTICS" : "true",
+          "SDKROOT" : "iphonesimulator14.5"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone10,4",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "12.1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "C006573E-07FE-4AF8-AFE5-215D37C8CDE7",
+          "TARGET_DEVICE_MODEL" : "iPhone10,4",
+          "TARGET_DEVICE_OS_VERSION" : "12.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
